@@ -1,5 +1,3 @@
 print('первый коммит')
 print("branch")
-print("branch")
-print("branch")
-print("branch")
+print('novii den')
